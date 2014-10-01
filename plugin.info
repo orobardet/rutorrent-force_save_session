@@ -1,0 +1,5 @@
+description: Force saving all the torrent in the session
+author: Robardet
+version: 1.0
+remote: ok
+need_rtorrent: 1
